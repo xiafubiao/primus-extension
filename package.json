@@ -65,7 +65,7 @@
     "stream-browserify": "^3.0.0",
     "util": "^0.12.5",
     "uuid": "^9.0.0",
-    "web3-eth-accounts": "^1.8.2"
+    "web3-eth-accounts": "^4.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.12",
